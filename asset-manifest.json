@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/apni-coding.github.io/Calculator-Using-React/static/css/main.bc7f1f37.css",
+    "main.js": "/apni-coding.github.io/Calculator-Using-React/static/js/main.e8d71b17.js",
+    "static/media/bg.jpg": "/apni-coding.github.io/Calculator-Using-React/static/media/bg.d65723d4862ac3c87dff.jpg",
+    "index.html": "/apni-coding.github.io/Calculator-Using-React/index.html",
+    "main.bc7f1f37.css.map": "/apni-coding.github.io/Calculator-Using-React/static/css/main.bc7f1f37.css.map",
+    "main.e8d71b17.js.map": "/apni-coding.github.io/Calculator-Using-React/static/js/main.e8d71b17.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bc7f1f37.css",
+    "static/js/main.e8d71b17.js"
+  ]
+}
